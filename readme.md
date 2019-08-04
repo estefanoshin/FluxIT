@@ -13,7 +13,7 @@
  Falta:
  
  1_ La documentacion del codigo <br>
- 2_ La utilizacion de un token de validacion
+ 2_ La utilizacion de un token de validacion <br>
  3_ Tests <br>
  4_ Validacion y sanitizacion de parametros
  
