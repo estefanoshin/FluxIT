@@ -5,13 +5,13 @@
  
  Falta:
  
- 1_ La documentacion del codigo
+ 1_ La documentacion del codigo <br>
  2_ La utilizacion de un token de validacion
  
  
  -------------------------------------------------
  
- En la posibilidad de que pueda estar libre realizo un nuevo push.
+ En la posibilidad de que pueda estar libre realizo un nuevo push. <br>
  En el caso contrario, probablemente termine entregando esta version.
  
  Muchas Gracias.
